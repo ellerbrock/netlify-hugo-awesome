@@ -1,6 +1,6 @@
-*.sec
 .DS_Store
 .sass-cache
 .yarn
 node_modules
 sass
+node_modules
