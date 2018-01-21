@@ -2,6 +2,8 @@
 
 # hugo-awesome
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ellerbrock/netlify-hugo-awesome.svg)](https://greenkeeper.io/)
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 [Hugo](https://gohugo.io/) theme build on [Bulma](https://bulma.io/) CSS Framework based on [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/). 
