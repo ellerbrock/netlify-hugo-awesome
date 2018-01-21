@@ -1,0 +1,14 @@
+baseURL = "https://iacf.io/"
+title = "Infrastructure as Code Foundation"
+languageCode = "en-us"
+theme = "hugo-awesome"
+disableHugoGeneratorInject = true
+# publishDir = "docs"
+ignoreFiles = [ "\\.dev$", "\\.backup$", "\\.old$"  ]
+pluralizeListTitles = true
+
+[author]
+  name = "Maik Ellerbrock"
+  homepage = "https://iacf.io/"
+  github = "https://github.com/iacfio/"
+  twitter = "https://twitter.com/iacfio/"
