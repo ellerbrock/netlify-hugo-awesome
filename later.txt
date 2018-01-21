@@ -1,0 +1,2 @@
+      // "preclean": "shx rm -rf ./xxxbuild",
+
