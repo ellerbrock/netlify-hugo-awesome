@@ -1,0 +1,9 @@
+{
+  "name": "netlify-hugo-awesome",
+  "version": "1.0.0",
+  "description": "hugo static website automation for netlify",
+  "main": "index.js",
+  "repository": "git@github.com:ellerbrock/netlify-hugo-awesome.git",
+  "author": "Maik Ellerbrock <opensource@frapsoft.com>",
+  "license": "MIT"
+}
